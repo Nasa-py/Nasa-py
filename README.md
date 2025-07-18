@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nasa-py](https://github.com/nasa-py)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python** , **HTML** , **CSS** , **MySQL**
 
 - 📫 How to reach me **khanarafat100000@gmail.com**
 
