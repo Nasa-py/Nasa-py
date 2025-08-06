@@ -44,6 +44,14 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasa-py&show_icons=true&locale=en&layout=compact" alt="nasa-py" /></p>
+<p>
+  <img align="left" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=nasa-py&show_icons=true&locale=en&layout=compact&theme=transparent" 
+       alt="nasa-py" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasa-py&show_icons=true&locale=en" alt="nasa-py" /></p>
+<p>&nbsp;
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=nasa-py&show_icons=true&locale=en&theme=transparent" 
+       alt="nasa-py" />
+</p>
